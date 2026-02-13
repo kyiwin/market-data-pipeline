@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+
+There is a .venv folder at the root of the codebase, containing our virtual environment (although you cannot see it directly). Always make sure to activate the virtual environment when you work.
