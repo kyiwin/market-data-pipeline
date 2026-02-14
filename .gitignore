@@ -1,0 +1,7 @@
+# Virtual environment
+.venv/
+
+# Script output
+temp/
+
+.env
